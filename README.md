@@ -2,8 +2,9 @@
 
 <table>
   <tr>
-    <td>
+    <td> 
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvinalaphat&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alvinalaphat&theme=apprentice&utcOffset=8" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvinalaphat&theme=github_dark" />
