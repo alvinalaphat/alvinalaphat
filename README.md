@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td>
-      ![My Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvinalaphat&theme=2077)
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvinalaphat&theme=2077" />
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark" />
     </td>
   </tr>
