@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinalaphat&theme=react-dark)
 
