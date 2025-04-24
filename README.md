@@ -1,22 +1,13 @@
-## YO 👋
-
-## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark)
 
-<!--
-**alvinalaphat/alvinalaphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Trophies](https://github-profile-trophy.vercel.app/?username=alvinalaphat&theme=onedark)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=alvinalaphat&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinalaphat&theme=react-dark)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
