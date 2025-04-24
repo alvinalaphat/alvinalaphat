@@ -2,14 +2,9 @@
 
 <table>
   <tr>
-    <td> 
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvinalaphat&theme=github_dark" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alvinalaphat&theme=apprentice&utcOffset=8" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvinalaphat&theme=github_dark" />
-      <br />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvinalaphat&theme=github_dark" />
-    </td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvinalaphat&theme=2077" />
+
+      <img src="https://github-stats-alpha.vercel.app/api?username=alvinalaphat&cc=000000&tc=FFFFFF&ic=FFFFFF&bc=000000" />
+
   </tr>
 </table>
