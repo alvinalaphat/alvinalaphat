@@ -1,4 +1,15 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinalaphat&theme=react-dark)
 
