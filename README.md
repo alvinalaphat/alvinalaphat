@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinalaphat&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinalaphat&layout=compact&theme=dark)
 
